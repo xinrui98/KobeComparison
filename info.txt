@@ -1,0 +1,6 @@
+Task: Find out current NBA players most similar to Kobe Bryant
+Criteria:
+    Stats: PPG, Assists, Rebounds
+    Physicals: Height, Weight
+    Accolades: All-NBA, Championships, MVPs
+    Intangibles: Clutch
