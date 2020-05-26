@@ -3,9 +3,9 @@ Using nba_api and pandas to find out which current NBA players are most similar 
 
 Criteria for consideration:
     
-    Stats: PPG, Assists, Rebounds (1 point)
-    Physicals: Height, Weight (1 point)
-    Accolades: All-NBA, Championships, MVPs (2 points)
+    Stats: PPG, Assists, Rebounds (1 point each)
+    Physicals: Height, Weight (1 point each)
+    Accolades: All-NBA, All-Defensive, MVPs (2 points each)
 
 Conclusion:
 
